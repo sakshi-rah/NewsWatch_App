@@ -1,5 +1,11 @@
 .App {
+  margin: 0%;
+  padding: 0%;
+  height: 100%;
   text-align: center;
+  background-color: #c2e6f3;
+  background-image: linear-gradient(0deg, #c2e6f3 0%, #d7f5e7 100%);
+  border: 1px solid white;
 }
 
 .App-logo {
